@@ -12,16 +12,11 @@
 
 ## 👩‍💻 About Me
 
-```python
-insharah = {
-    "education"  : "BS Robotics & Intelligent Systems — Bahria University '28",
-    "focus"      : ["Agentic AI", "AI Automation", "Robotics"],
-    "tools"      : ["Python", "LangChain", "n8n", "FastAPI", "ROS", "Vapi.ai"],
-    "experience" : "AI/ML Engineering Intern @ DevelopersHub Corporation",
-    "building"   : "Real-world AI agents & automation pipelines",
-    "location"   : "Karachi, Pakistan 🇵🇰",
-}
-```
+🎓 BS Robotics & Intelligent Systems — Bahria University '28  
+📍 Karachi, Pakistan  
+💼 AI/ML Engineering Intern @ DevelopersHub Corporation  
+🚀 Building real-world AI agents & automation pipelines  
+🛠️ Python · LangChain · n8n · FastAPI · ROS · Vapi.ai
 
 ---
 
